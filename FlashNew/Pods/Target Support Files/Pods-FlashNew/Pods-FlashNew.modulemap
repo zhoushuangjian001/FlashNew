@@ -1,0 +1,6 @@
+framework module Pods_FlashNew {
+  umbrella header "Pods-FlashNew-umbrella.h"
+
+  export *
+  module * { export * }
+}

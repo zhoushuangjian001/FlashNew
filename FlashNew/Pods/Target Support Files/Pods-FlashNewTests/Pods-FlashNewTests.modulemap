@@ -1,0 +1,6 @@
+framework module Pods_FlashNewTests {
+  umbrella header "Pods-FlashNewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
